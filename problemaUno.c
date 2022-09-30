@@ -21,7 +21,7 @@ int main(){
 
 	resultado = exponente(numero,exp);
 
-	printf("%i\n", resultado);
+	printf("El resultado de elevar %i a la %i es igual a: %i\n",numero, exp, resultado);
 }
 
 long exponente(long numero, long exp)
