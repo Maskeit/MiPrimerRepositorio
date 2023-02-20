@@ -85,6 +85,6 @@ int main() {
     
     printf("\nImprimiendo postorden\n");
     postorden(raiz);
-
+    printf("\n");
     return 0;
 }
